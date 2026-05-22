@@ -1,0 +1,44 @@
+body{
+	background-color:purple;
+	margin:2%;
+}
+.knewave-regular {
+  font-family: "Knewave", system-ui;
+  font-weight: bold;
+  font-style: normal;
+  font-size:40px;
+  background-color:green;
+  color:yellow;
+}
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: normal;
+  font-style: normal;
+  font-size:28px;
+}
+p{
+	color:white;
+	font-size:22px;
+}
+.choice{
+	width:85%;
+	background-color:lime;
+}
+.video{
+	height:300px;
+	width:250px;
+}
+.recipe{
+	height:400px;
+	width:300px;
+	background-color:pink;
+	margin:1%;
+	padding:1%;
+	border-radius:12px;
+	float:left;
+}
+.img{
+	background-color:black;
+	padding:4px;
+	margin-top:10px;
+}

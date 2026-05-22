@@ -1,0 +1,63 @@
+body{
+	background-color:lightblue;
+	margin:2%;
+}
+
+.title{
+	background-color:yellow;
+	font-size:38px;
+	font-weight:bold;
+}
+
+.img{
+	padding:2%;
+	width:300px;
+	background-color:black;
+}
+.heading{
+	font-size:28px;
+	color:yellow;
+	font-weight:bold;
+}
+.recipe{
+	margin:1%;
+}
+.ingredients{
+	width:20%;
+	background-color:orange;
+	color:white;
+	float:left;
+	font-size:18px;
+	padding:1%;
+	border-radius:25px;
+}
+.procedure{
+	padding:2%;
+	margin:1%;
+	width:70%;
+	font-size:20px;
+	background-color:purple;
+	float:right;
+	color:white;
+	border-radius:25px;
+}
+.note{
+	width:70%;
+	float:right;
+	background-color:pink;
+	border-radius:25px;
+	padding:2%;
+	margin:1%;
+}
+.bilbo-regular {
+  font-family: "Bilbo", cursive;
+  font-weight: bold;
+  font-size:23px; 
+  font-style: normal;
+}
+.birthstone-regular {
+  font-family: "Birthstone", cursive;
+  font-weight: bold;
+  font-size:55px;
+  font-style: normal;
+}
