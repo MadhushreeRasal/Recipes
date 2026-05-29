@@ -3,10 +3,9 @@
 A beginner-friendly multi-page recipe website built using **HTML and CSS**.
 This project focuses on practicing website structure, page linking, layouts, media embedding, typography, and reusable styling while creating a fun cooking-themed website.
 
-**Live Demo:**
-[https://madhushreerasal.github.io/Recipes/]([https://madhushreerasal.github.io/Recipes/](https://madhushreerasal.github.io/The-Foodie-Hub/))
+**Live Demo:**## Live Demo
 
----
+(https://madhushreerasal.github.io/The-Foodie-Hub/)
 
 ## About The Project
 
@@ -20,8 +19,6 @@ The homepage contains multiple recipe cards with videos, and each recipe opens o
 
 This project was mainly created to strengthen foundational HTML and CSS skills through building a complete multi-page website.
 
----
-
 ## Features
 
 * Multi-page website structure
@@ -33,15 +30,11 @@ This project was mainly created to strengthen foundational HTML and CSS skills t
 * Beginner-friendly recipe instructions
 * Responsive viewport setup
 
----
-
 ## Technologies Used
 
 * HTML5
 * CSS3
 * Google Fonts
-
----
 
 ## What I Practiced
 
@@ -55,8 +48,6 @@ Through this project, I practiced:
 * Adding favicons and meta tags
 * Organizing content clearly
 
----
-
 ## Recipes Included
 
 * Jeera Rice
@@ -66,8 +57,6 @@ Through this project, I practiced:
 * Potato Sabji
 * Cauliflower Sabji
 * Tomato Rice
-
----
 
 ## Author
 
