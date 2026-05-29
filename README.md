@@ -4,7 +4,7 @@ A beginner-friendly multi-page recipe website built using **HTML and CSS**.
 This project focuses on practicing website structure, page linking, layouts, media embedding, typography, and reusable styling while creating a fun cooking-themed website.
 
 **Live Demo:**
-[https://madhushreerasal.github.io/Recipes/](https://madhushreerasal.github.io/Recipes/)
+[https://madhushreerasal.github.io/Recipes/]([https://madhushreerasal.github.io/Recipes/](https://madhushreerasal.github.io/The-Foodie-Hub/))
 
 ---
 
